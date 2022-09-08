@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:48:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0293277d00b1111061d4e16cd4a42453</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>m2m_app_config_theme_0293277d00b1111061d4e16cd4a42453</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:48:19</sys_updated_on>
+        <theme display_value="Time off ws ">0a93277dd7b11110da93d2af43f55552</theme>
+        <ux_app_configuration display_value="Time Off Requests workspace Config">8293277de8b111101d4f8fd8dbd96857</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

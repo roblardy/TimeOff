@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Reject reason</name>
+        <parent>0293277dabb1111051fe1ea13c7f522c</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:48:20</sys_created_on>
+        <sys_id>8e93277db7b11110d85e989c1023792e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject reason</sys_name>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_8e93277db7b11110d85e989c1023792e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:48:20</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

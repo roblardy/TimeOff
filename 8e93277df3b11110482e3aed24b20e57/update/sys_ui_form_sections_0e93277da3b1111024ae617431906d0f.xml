@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0e93277da3b1111024ae617431906d0f" sys_domain="global" table="x_814848_timeoff_0_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:47:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8693277dadb111100c9d833a9813830f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_814848_timeoff_0_request" name="x_814848_timeoff_0_request" sys_domain="global" view="4693277d77b11110807581679fe44d0f">0e93277da3b1111024ae617431906d0f</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_814848_timeoff_0_request" sys_domain="global" view="4693277d77b11110807581679fe44d0f">c693277d04b11110e390b245ea60720f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:47:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:47:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca93277df9b1111021bae97da8119c0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_814848_timeoff_0_request" name="x_814848_timeoff_0_request" sys_domain="global" view="4693277d77b11110807581679fe44d0f">0e93277da3b1111024ae617431906d0f</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_814848_timeoff_0_request" sys_domain="global" view="4693277d77b11110807581679fe44d0f">0693277d8ab111100746acf709267f0f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:47:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_814848_timeoff_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:47:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e93277da3b1111024ae617431906d0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_814848_timeoff_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0e93277da3b1111024ae617431906d0f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:47:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Record (x_814848_timeoff_0)" name="record_x_814848_timeoff_0">4693277d77b11110807581679fe44d0f</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

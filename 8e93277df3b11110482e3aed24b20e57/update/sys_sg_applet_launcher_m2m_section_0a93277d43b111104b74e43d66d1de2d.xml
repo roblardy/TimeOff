@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Dashboard">4693277dcbb11110f8f1558145f4d12d</applet_launcher>
+        <order>20</order>
+        <section display_value="Requests This Year">ca93277dd0b1111016ffe71a3b206a2d</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:47:54</sys_created_on>
+        <sys_id>0a93277d43b111104b74e43d66d1de2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_0a93277d43b111104b74e43d66d1de2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:47:54</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

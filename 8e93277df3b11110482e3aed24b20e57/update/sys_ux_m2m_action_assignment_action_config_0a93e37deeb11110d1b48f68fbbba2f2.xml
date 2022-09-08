@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_action_assignment_action_config">
+    <sys_ux_m2m_action_assignment_action_config action="INSERT_OR_UPDATE">
+        <action_assignment display_value="Decline Modal">c293277d8db11110d23b3d078654fd48</action_assignment>
+        <action_configuration display_value="Time Off Record Actions">c693277d03b11110555daae4cf81eb09</action_configuration>
+        <sys_class_name>sys_ux_m2m_action_assignment_action_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:47:59</sys_created_on>
+        <sys_id>0a93e37deeb11110d1b48f68fbbba2f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_ux_m2m_action_assignment_action_config_0a93e37deeb11110d1b48f68fbbba2f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:47:59</sys_updated_on>
+    </sys_ux_m2m_action_assignment_action_config>
+</record_update>

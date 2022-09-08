@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Time Off Report by Status (Bar) Navigation">ce93277df8b11110f651869382ea6a2b</jump_to_screen>
+        <name>Time Off Trends</name>
+        <report display_value="Time Off Report by Status">0e93277d7eb11110a4411477c48ab035</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:48:11</sys_created_on>
+        <sys_id>4293277d2bb1111019dab53b2bf94b2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Trends</sys_name>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_sg_chart_4293277d2bb1111019dab53b2bf94b2b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:48:11</sys_updated_on>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

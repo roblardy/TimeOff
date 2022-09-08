@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Request end_date</name>
+        <parent>4a93277d4bb111107ba0f978e810f62c</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:48:20</sys_created_on>
+        <sys_id>c293277dfab1111038ad7cc8d8961e2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request end_date</sys_name>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_c293277dfab1111038ad7cc8d8961e2e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:48:20</sys_updated_on>
+        <type>datetime</type>
+    </sys_sg_item_parameter>
+</record_update>

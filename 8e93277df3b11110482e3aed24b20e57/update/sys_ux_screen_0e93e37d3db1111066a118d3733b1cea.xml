@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <app_config display_value="Time Off Requests workspace Config">8293277de8b111101d4f8fd8dbd96857</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Manager Dashboard">4e93e37deeb11110e9df4c8e024d0cee</macroponent>
+        <macroponent_config/>
+        <name>Manager Dashboard default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type/>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:47:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e93e37d3db1111066a118d3733b1cea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager Dashboard default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_ux_screen_0e93e37d3db1111066a118d3733b1cea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:47:59</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=0e93e37d3db1111066a118d3733b1cea"/>
+</record_update>

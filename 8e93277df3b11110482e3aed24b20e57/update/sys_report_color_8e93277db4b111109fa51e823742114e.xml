@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_color">
+    <sys_report_color action="INSERT_OR_UPDATE">
+        <color>#eae2f0</color>
+        <display>background-color:#eae2f0</display>
+        <name>#eae2f0</name>
+        <sys_class_name>sys_report_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:47:56</sys_created_on>
+        <sys_id>8e93277db4b111109fa51e823742114e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>#eae2f0</sys_name>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_report_color_8e93277db4b111109fa51e823742114e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:47:56</sys_updated_on>
+        <themeable_color/>
+    </sys_report_color>
+</record_update>

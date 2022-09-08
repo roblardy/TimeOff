@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="x_814848_timeoff_0.Time Off Requ" name="x_814848_timeoff_0.Time Off Requ">8a93277d0cb1111065c5b410952d454e</category>
+        <collection>x_814848_timeoff_0_request</collection>
+        <condition table="x_814848_timeoff_0_request">statusCHANGESTOapproved^NQstart_dateVALCHANGES^ORend_dateVALCHANGES^EQ<item display_value="Approved" endquery="false" field="status" goto="false" newquery="false" operator="CHANGESTO" or="false" value="approved"/>
+            <item endquery="false" field="start_date" goto="false" newquery="true" operator="VALCHANGES" or="false" value=""/>
+            <item endquery="false" field="end_date" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>multipart/mixed</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p><br /></p>
+<hr />
+<p><br /></p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Your time off request has been approved.</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Time off notify calendar</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>requested_by</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Time off request ${number} approved</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:48:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8693277db0b11110c71aef97c28e874e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time off notify calendar</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sysevent_email_action_8693277db0b11110c71aef97c28e874e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:48:07</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="timeoff.calendar.integration">c693277d82b111101bcafbb68e38154e</template>
+        <type>vcalendar</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

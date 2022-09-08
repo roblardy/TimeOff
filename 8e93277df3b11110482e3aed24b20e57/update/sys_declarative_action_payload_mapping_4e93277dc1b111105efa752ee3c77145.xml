@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Decline">4e93277d3db1111058e452315d240847</action_payload_definition>
+        <label>Decline  Related List</label>
+        <model display_value="Related List">d91731a9534723003eddddeeff7b121c</model>
+        <payload_map>EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:48:07</sys_created_on>
+        <sys_id>4e93277dc1b111105efa752ee3c77145</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Decline  Related List</sys_name>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_4e93277dc1b111105efa752ee3c77145</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:48:07</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

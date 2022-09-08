@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description/>
+        <name>Submit</name>
+        <specificity>10</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+        <sys_id>4693e37debb11110909976c43fd274f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit</sys_name>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_ux_form_action_4693e37debb11110909976c43fd274f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        <table>x_814848_timeoff_0_request</table>
+        <ui_action display_value="Submit">ce93277d9bb111108019444a419bce0f</ui_action>
+    </sys_ux_form_action>
+</record_update>

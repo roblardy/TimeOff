@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Edit">4a93277d14b111106e5579f69ffb6348</action_payload_definition>
+        <label>Edit Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>sysId={{sys_id}}^table={{table}}^url={{navigation_url}}^status={{status}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:48:06</sys_created_on>
+        <sys_id>0693277d9db11110f63a1ab54978a046</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit Evam</sys_name>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_0693277d9db11110f63a1ab54978a046</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:48:06</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

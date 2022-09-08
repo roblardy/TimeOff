@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content/>
+        <content_attrs/>
+        <content_component/>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>home</icon>
+        <id>dashboard</id>
+        <label>Dashboard</label>
+        <order>1000</order>
+        <roles>c693277dbeb11110302d8cfd7678dc57,4293277d01b11110340441d0d5f7ca57</roles>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:48:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ca93277d1ab11110729567ebe114534c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_aw_module_ca93277d1ab11110729567ebe114534c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:48:19</sys_updated_on>
+        <toolbar_button display_value="Dashboard Button">4293277dfdb1111002cd80c34b9ccd4d</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="Time Off Request WS">0293277dd3b1111081abd40f4597794d</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=ca93277d1ab11110729567ebe114534c"/>
+</record_update>

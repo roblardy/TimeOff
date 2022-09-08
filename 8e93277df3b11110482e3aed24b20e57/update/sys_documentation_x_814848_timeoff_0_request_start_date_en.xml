@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="start_date" label="Start date" language="en" table="x_814848_timeoff_0_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <help/>
+            <hint/>
+            <label>Start date</label>
+            <language>en</language>
+            <name>x_814848_timeoff_0_request</name>
+            <plural>Start dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>d293277d97b11110692b732e6253af6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Start date</sys_name>
+            <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+            <sys_update_name>sys_documentation_x_814848_timeoff_0_request_start_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:47:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

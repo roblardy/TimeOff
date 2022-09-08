@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Time Off">4e93277dbcb11110c73988d9fe91922d</applet_launcher>
+        <order>10</order>
+        <quick_action_button display_value="Request time off">c693277d4bb111107dc199c7ecb41b2d</quick_action_button>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:48:21</sys_created_on>
+        <sys_id>8a93277d9fb11110be4eae36e28b5c2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_8a93277d9fb11110be4eae36e28b5c2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:48:21</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+</record_update>

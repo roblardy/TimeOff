@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_814848_timeoff_0_request" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>0693277dccb11110229ad0922bcbf60e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>8293277d64b11110a1ac016f27980b0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>4293277d73b111106507214917684c0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by.department</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>8693277d4cb1111044b5de083f974a0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by.manager</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>4a93277d47b111101be661b2ec93100e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date_submitted</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>c693277d6fb11110523fa3ddc8ca810e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>4693277d7cb1111001149c257eab750e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>c293277d99b111105ea7dea25ec2c00e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>times_submitted</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>8e93277dd9b111109ebdc26fab16e80d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>8a93277ddeb11110742f9987f8bd3b0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_date</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>0e93277d8cb1111042dcb1f4e4a5840d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>time_off_reason</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>ce93277da5b1111075ec3ebfe9dd150d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>rejection_reason</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>4e93277d2cb11110a1f4a4fbb3121c0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>ca93277dd3b1111031ae37addb25260d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_notes</element>
+            <list_id display_value="x_814848_timeoff_0_request" element="NULL" name="x_814848_timeoff_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a93277d25b11110f6de5ec8c579ed0e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_id>4a93277da9b111105f309c89c7674c0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_814848_timeoff_0_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-08 18:48:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a93277d25b11110f6de5ec8c579ed0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_814848_timeoff_0_request</sys_name>
+            <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+            <sys_update_name>sys_ui_list_x_814848_timeoff_0_request_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-08 18:48:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

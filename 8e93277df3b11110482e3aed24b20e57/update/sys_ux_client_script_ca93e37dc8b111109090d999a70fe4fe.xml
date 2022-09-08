@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record">0693277d06b1111032afe5f3e1485109</macroponent>
+        <name>DeclineReasonSubmitHandler</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[
+            /**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    api.data.gform.setValue({
+        fieldName: 'rejection_reason',
+        value: api.state.declineReason
+    });
+    api.data.gform.setValue({
+        fieldName: 'status',
+        value: 'rejected'
+    });
+    api.data.gform.save();
+    helpers.modal.close('custom_1');
+    api.setState('declineReason', '');
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 18:48:03</sys_created_on>
+        <sys_id>ca93e37dc8b111109090d999a70fe4fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DeclineReasonSubmitHandler</sys_name>
+        <sys_package display_value="TimeOffApplication" source="x_814848_timeoff_0">8e93277df3b11110482e3aed24b20e57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeOffApplication">8e93277df3b11110482e3aed24b20e57</sys_scope>
+        <sys_update_name>sys_ux_client_script_ca93e37dc8b111109090d999a70fe4fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-08 18:48:03</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>
